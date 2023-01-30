@@ -1,0 +1,3 @@
+Product{IDNum='00000001', name='Dr.Pepper', description ='Best drink', cost =2.99}
+Product{IDNum='00000002', name='Pepsi', description ='carbonated soft drink', cost =3.01}
+Product{IDNum='00000003', name='OrangeCrush', description ='Orange flavored Drink', cost =2.49}
